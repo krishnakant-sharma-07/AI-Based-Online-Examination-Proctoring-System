@@ -1,8 +1,22 @@
-# React + Vite
+# AI-Based Online Examination Proctoring System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
+The AI-Based Online Examination Proctoring System is a cutting-edge solution designed to monitor and ensure the integrity of online exams. The system uses Artificial Intelligence (AI) to detect cheating behaviors, such as screen switching, suspicious facial expressions, or unauthorized movements, during online exams. It aims to provide a secure and trustworthy environment for remote assessments.
 
-Currently, two official plugins are available:
+## Features
+- **Real-time Monitoring**: AI-powered facial recognition and activity tracking.
+- **Suspicious Behavior Detection**: Detects and flags actions like looking away from the screen, switching tabs, or multiple faces in the camera view.
+- **Exam Integrity Assurance**: Automatically captures and logs suspicious activities during the exam.
+- **Real-time Alerts**: Sends alerts to the administrator in case of any suspicious activity.
+- **User-friendly Interface**: Easy-to-use interface for both students and examiners.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation
+
+### Prerequisites:
+- Python 3.x
+- Virtual Environment (optional but recommended)
+
+### Setup Instructions:
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/krishnakant-sharma-07/AI-Based-Online-Examination-Proctoring-System.git
